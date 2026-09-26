@@ -1,0 +1,16 @@
+Cardápio Executivo Celebre — publicar no GitHub Pages
+
+Nesta pasta há só 2 arquivos que importam:
+- index.html  (o site inteiro, com fotos e visual dentro)
+- cardapio-executivo-celebre.pdf
+
+Como publicar
+1. Crie um repositório público no GitHub. O nome pode ser qualquer um.
+2. Apague os arquivos antigos desse repositório, se existirem.
+3. Envie para a raiz do repositório: index.html, cardapio-executivo-celebre.pdf e .nojekyll.
+   Não envie esta pasta zipada. Envie os arquivos soltos.
+4. No GitHub: Settings → Pages → Branch: main → Folder: / (root) → Save.
+5. Espere 1 minuto e abra o endereço que o GitHub mostrar.
+   Atualize com Ctrl+F5 se aparecer a versão antiga.
+
+O site funciona em qualquer pasta do GitHub Pages, porque não depende de caminhos como /wel/.
